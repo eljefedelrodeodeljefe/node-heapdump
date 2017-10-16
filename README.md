@@ -1,4 +1,4 @@
-node-heapdump
+node-heapdump [![Build Status](https://travis-ci.org/eljefedelrodeodeljefe/node-heapdump.svg?branch=master)](https://travis-ci.org/eljefedelrodeodeljefe/node-heapdump)
 ===
 
 Make a dump of the V8 heap for later inspection.
